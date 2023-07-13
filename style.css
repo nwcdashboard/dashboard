@@ -1,0 +1,40 @@
+.css-rqu6ju {
+    display: inline-flex;
+    -moz-box-align: center;
+    align-items: center;
+    -moz-box-pack: center;
+    justify-content: center;
+    font-weight: 400;
+    padding: 0.25rem 0.75rem;
+    border-radius: 30px;
+    min-height: 150px;
+    margin: 0px;
+    line-height: 1.6;
+    color: inherit;
+    width: 90%;
+    user-select: none;
+    background-color: rgb(223, 223, 225);
+    border: 1px solid rgba(0, 0, 0, 0.2);
+      border-top-color: rgba(26, 26, 26, 0.2);
+      border-right-color: rgba(26, 26, 26, 0.2);
+      border-bottom-color: rgba(26, 26, 26, 0.2);
+      border-left-color: rgba(26, 26, 26, 0.2);
+  }
+  .css-8dzlt9 p {
+    word-break: break-word;
+    margin-bottom: 0px;
+    font-size: 30px;
+  }
+
+
+
+
+.css-rqu6ju:hover {
+    border-color: rgb(56, 56, 56);
+    color: rgb(131, 131, 131);
+  }
+
+p, ol, ul, dl {
+	font-size: 2rem;
+	font-weight: 400;
+}
